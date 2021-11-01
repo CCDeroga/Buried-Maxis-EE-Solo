@@ -8,6 +8,6 @@ Wisp step and bell step are changed.
 
 
 To install:
-Place buried_maxis_solo into AppData/local/Plutonium/storage/t6/scripts/zm/zm_buried
+Place "buried_maxis_solo.gsc" into AppData/local/Plutonium/storage/t6/scripts/zm/zm_buried
 
 If any of the paths dont exist, create them.
